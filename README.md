@@ -2,6 +2,9 @@
  E-commerce vendor project in DBMS semester 3
  This is a project done in 3rd semester for the Database Systems module. This is an ecommerce website build using HTML, Bootstrap as frontend and PHP as backend. Other languages used in this project are JS, Ajax.
 
+![screencapture-localhost-Ecommerce-DBMS-client-index-php-2023-09-26-11_29_00](https://github.com/prasanjithlorensuhewa/Ecommerce_DBMS/assets/67494584/09a1ab8b-a41b-407f-85c8-05b9c1664840)
+
+
 # How to run
 First, you need to install xampp server or Mysql server and open the Ecommerce_Final.sql file which is in this repo  from that server. Respective links are given below for downloading.
 https://www.apachefriends.org/download.html
