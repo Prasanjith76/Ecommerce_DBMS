@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.0.31, for Win64 (x86_64)
 --
--- Host: ecommerce-site-db.ck2iogphtt9t.ap-northeast-1.rds.amazonaws.com    Database: Ecommerce-db
+-- Host: localhost    Database: ecommerce-db
 -- ------------------------------------------------------
 -- Server version	8.0.28
 
